@@ -1,0 +1,1 @@
+# CalculatedOfParametersOf3DFigures
